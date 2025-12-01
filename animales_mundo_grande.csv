@@ -1,0 +1,501 @@
+id,especie,continente,habitat,tipo,esperanza_vida,peso_kg
+1,Jirafa 1,Oceanía,Sabana,Reptil,36,39
+2,Tigre 2,Asia,Humedal,Reptil,38,1251
+3,Serpiente Pitón 3,África,Sabana,Reptil,64,6394
+4,Panda 4,Europa,Humedal,Ave,56,707
+5,Panda 5,África,Montaña,Ave,65,4108
+6,Jirafa 6,América,Sabana,Reptil,5,2909
+7,Águila Real 7,América,Sabana,Ave,66,457
+8,Elefante 8,Asia,Bosque,Mamífero,33,431
+9,Gorila 9,Europa,Sabana,Ave,52,5208
+10,Cóndor 10,Europa,Humedal,Reptil,5,3128
+11,Elefante 11,Europa,Sabana,Mamífero,6,5223
+12,Panda 12,América,Desierto,Mamífero,7,1351
+13,Gorila 13,África,Bosque,Mamífero,59,5407
+14,Cocodrilo 14,Europa,Bosque,Mamífero,54,972
+15,Cóndor 15,Oceanía,Bosque,Ave,76,1245
+16,Panda 16,Oceanía,Montaña,Ave,11,6710
+17,Jirafa 17,Asia,Sabana,Mamífero,70,1887
+18,Serpiente Pitón 18,América,Sabana,Mamífero,25,6568
+19,Gorila 19,América,Bosque,Mamífero,80,396
+20,Cóndor 20,Asia,Desierto,Mamífero,24,6554
+21,Serpiente Pitón 21,África,Humedal,Ave,46,5870
+22,Cóndor 22,América,Montaña,Reptil,54,6557
+23,Cocodrilo 23,Asia,Montaña,Mamífero,71,2435
+24,Elefante 24,Europa,Desierto,Reptil,71,3739
+25,Gorila 25,América,Humedal,Reptil,16,5279
+26,Cóndor 26,Oceanía,Sabana,Mamífero,33,5091
+27,Águila Real 27,América,Humedal,Mamífero,43,882
+28,Tigre 28,América,Humedal,Mamífero,9,5611
+29,Cóndor 29,Europa,Humedal,Mamífero,60,563
+30,Panda 30,Europa,Desierto,Reptil,8,3168
+31,Panda 31,Asia,Sabana,Mamífero,39,175
+32,Cóndor 32,Asia,Sabana,Ave,11,92
+33,Águila Real 33,Oceanía,Desierto,Mamífero,36,6334
+34,Panda 34,Asia,Desierto,Mamífero,21,3764
+35,Jirafa 35,América,Bosque,Reptil,76,6070
+36,León 36,América,Desierto,Mamífero,60,6004
+37,Águila Real 37,Oceanía,Bosque,Ave,30,3724
+38,León 38,América,Montaña,Ave,50,532
+39,Gorila 39,Oceanía,Desierto,Reptil,75,6582
+40,León 40,Oceanía,Sabana,Ave,80,2791
+41,Tigre 41,Oceanía,Bosque,Reptil,24,3378
+42,Panda 42,Europa,Montaña,Reptil,77,1703
+43,Elefante 43,Oceanía,Sabana,Ave,19,3154
+44,Cóndor 44,Oceanía,Sabana,Reptil,12,2143
+45,Serpiente Pitón 45,África,Humedal,Mamífero,75,609
+46,Jirafa 46,Asia,Humedal,Ave,45,2266
+47,Elefante 47,África,Desierto,Ave,52,486
+48,Gorila 48,América,Montaña,Reptil,40,5756
+49,Jirafa 49,Asia,Bosque,Ave,45,3768
+50,Serpiente Pitón 50,Asia,Montaña,Ave,65,3493
+51,Panda 51,América,Sabana,Mamífero,65,3952
+52,Gorila 52,Oceanía,Montaña,Ave,67,939
+53,Panda 53,Oceanía,Montaña,Ave,37,5194
+54,Jirafa 54,Europa,Bosque,Ave,41,6850
+55,Águila Real 55,Oceanía,Bosque,Reptil,69,647
+56,Águila Real 56,África,Bosque,Mamífero,50,3318
+57,Tigre 57,Oceanía,Sabana,Ave,37,1632
+58,Jirafa 58,África,Bosque,Mamífero,39,4481
+59,Panda 59,África,Bosque,Ave,30,68
+60,León 60,América,Bosque,Ave,66,1010
+61,Jirafa 61,Asia,Humedal,Mamífero,20,670
+62,Cóndor 62,Oceanía,Bosque,Ave,6,3084
+63,Cóndor 63,Asia,Humedal,Mamífero,48,5231
+64,Tigre 64,África,Sabana,Ave,18,2937
+65,León 65,Oceanía,Sabana,Mamífero,36,2137
+66,Gorila 66,Asia,Bosque,Ave,73,6516
+67,Cóndor 67,América,Desierto,Ave,70,6284
+68,Gorila 68,América,Sabana,Mamífero,73,6045
+69,Jirafa 69,Europa,Humedal,Mamífero,71,1265
+70,Cocodrilo 70,América,Humedal,Mamífero,57,845
+71,Serpiente Pitón 71,Oceanía,Sabana,Mamífero,29,214
+72,Panda 72,América,Desierto,Mamífero,6,2250
+73,Cocodrilo 73,África,Bosque,Ave,15,3218
+74,Elefante 74,África,Sabana,Mamífero,58,773
+75,Serpiente Pitón 75,Asia,Humedal,Reptil,36,1478
+76,Gorila 76,Asia,Sabana,Ave,79,4306
+77,Serpiente Pitón 77,Europa,Sabana,Reptil,57,5834
+78,Serpiente Pitón 78,América,Humedal,Reptil,31,1907
+79,Elefante 79,Asia,Humedal,Ave,77,3232
+80,León 80,Asia,Humedal,Reptil,47,5864
+81,Cóndor 81,África,Humedal,Reptil,31,1488
+82,Cocodrilo 82,África,Humedal,Reptil,64,5104
+83,Elefante 83,África,Sabana,Reptil,15,278
+84,León 84,Asia,Montaña,Reptil,63,3251
+85,Cocodrilo 85,Europa,Humedal,Reptil,34,33
+86,Tigre 86,América,Bosque,Reptil,34,4166
+87,Panda 87,Asia,Desierto,Mamífero,51,6119
+88,Gorila 88,Asia,Bosque,Ave,50,3131
+89,León 89,América,Desierto,Ave,23,5769
+90,Águila Real 90,África,Sabana,Ave,69,301
+91,Águila Real 91,África,Bosque,Mamífero,53,3642
+92,Serpiente Pitón 92,Europa,Montaña,Ave,12,5061
+93,Tigre 93,América,Montaña,Reptil,45,2327
+94,Jirafa 94,África,Desierto,Reptil,6,5756
+95,Gorila 95,América,Bosque,Ave,11,4210
+96,Elefante 96,Europa,Sabana,Mamífero,27,393
+97,Tigre 97,África,Desierto,Ave,51,2409
+98,Cóndor 98,Asia,Desierto,Reptil,47,5672
+99,Jirafa 99,Europa,Bosque,Mamífero,77,4782
+100,Tigre 100,América,Sabana,Reptil,41,6809
+101,Serpiente Pitón 101,América,Humedal,Reptil,52,522
+102,Gorila 102,Asia,Bosque,Ave,32,5031
+103,Panda 103,Asia,Desierto,Mamífero,33,3812
+104,Águila Real 104,Oceanía,Humedal,Reptil,49,3445
+105,Tigre 105,América,Humedal,Reptil,75,4557
+106,León 106,Oceanía,Bosque,Mamífero,54,3946
+107,Cocodrilo 107,Asia,Montaña,Mamífero,46,5853
+108,Elefante 108,Europa,Desierto,Ave,78,5683
+109,Gorila 109,África,Desierto,Reptil,46,4870
+110,Cocodrilo 110,Europa,Desierto,Reptil,70,5121
+111,Elefante 111,África,Montaña,Ave,38,3417
+112,Águila Real 112,África,Sabana,Mamífero,19,3534
+113,Jirafa 113,América,Desierto,Ave,28,3387
+114,Panda 114,África,Montaña,Mamífero,75,3241
+115,León 115,Europa,Montaña,Mamífero,31,113
+116,Cóndor 116,África,Bosque,Ave,67,1096
+117,Cocodrilo 117,Oceanía,Humedal,Mamífero,16,3324
+118,Gorila 118,Asia,Humedal,Ave,13,3919
+119,Águila Real 119,Asia,Desierto,Ave,78,4894
+120,Gorila 120,Oceanía,Sabana,Mamífero,46,3532
+121,León 121,Oceanía,Desierto,Reptil,17,6761
+122,Jirafa 122,Asia,Humedal,Mamífero,54,5756
+123,Cocodrilo 123,Asia,Montaña,Mamífero,67,4100
+124,Cóndor 124,Asia,Bosque,Mamífero,29,701
+125,Serpiente Pitón 125,Europa,Bosque,Mamífero,31,2483
+126,Cocodrilo 126,África,Bosque,Mamífero,56,294
+127,León 127,Asia,Montaña,Reptil,13,4162
+128,Tigre 128,Asia,Humedal,Ave,17,4343
+129,Gorila 129,Asia,Montaña,Reptil,63,4524
+130,Serpiente Pitón 130,América,Sabana,Reptil,64,110
+131,Panda 131,Europa,Montaña,Reptil,16,6616
+132,Cóndor 132,Oceanía,Montaña,Reptil,75,4247
+133,Panda 133,América,Sabana,Mamífero,22,2600
+134,Elefante 134,Europa,Humedal,Mamífero,33,2235
+135,Panda 135,África,Sabana,Ave,6,2877
+136,Elefante 136,Oceanía,Montaña,Mamífero,41,4368
+137,Gorila 137,África,Montaña,Ave,13,6630
+138,Elefante 138,África,Desierto,Mamífero,12,3499
+139,Cocodrilo 139,África,Desierto,Mamífero,29,2611
+140,Jirafa 140,África,Desierto,Reptil,43,5548
+141,Elefante 141,Europa,Sabana,Ave,26,6326
+142,Cocodrilo 142,África,Humedal,Ave,66,3094
+143,Cocodrilo 143,Asia,Humedal,Mamífero,36,3297
+144,León 144,América,Bosque,Ave,69,4085
+145,Águila Real 145,Europa,Desierto,Reptil,14,6623
+146,Cocodrilo 146,América,Bosque,Ave,53,2674
+147,Tigre 147,América,Montaña,Mamífero,80,4917
+148,Águila Real 148,Asia,Sabana,Ave,70,1846
+149,Cóndor 149,Europa,Montaña,Reptil,17,5854
+150,Cóndor 150,África,Sabana,Ave,53,6539
+151,Cóndor 151,Oceanía,Desierto,Reptil,64,1548
+152,Cocodrilo 152,América,Sabana,Reptil,24,3412
+153,Cocodrilo 153,América,Humedal,Reptil,63,6841
+154,Águila Real 154,Oceanía,Desierto,Mamífero,33,5579
+155,León 155,América,Sabana,Ave,73,2328
+156,Cocodrilo 156,Europa,Bosque,Ave,52,2041
+157,Cóndor 157,Asia,Bosque,Ave,9,947
+158,Panda 158,África,Humedal,Reptil,65,5016
+159,Serpiente Pitón 159,Oceanía,Sabana,Ave,53,2769
+160,Cocodrilo 160,Asia,Montaña,Ave,37,1631
+161,Gorila 161,África,Desierto,Ave,66,565
+162,Cóndor 162,Oceanía,Montaña,Reptil,70,3885
+163,Águila Real 163,Europa,Montaña,Ave,9,6985
+164,Cóndor 164,América,Desierto,Reptil,64,6080
+165,Cóndor 165,Asia,Sabana,Reptil,62,2953
+166,Cóndor 166,Oceanía,Sabana,Ave,38,2085
+167,Gorila 167,Asia,Sabana,Mamífero,72,6443
+168,Cocodrilo 168,América,Bosque,Ave,20,5071
+169,Águila Real 169,África,Humedal,Ave,53,2676
+170,Serpiente Pitón 170,Asia,Desierto,Mamífero,20,6438
+171,Elefante 171,Asia,Desierto,Ave,11,5598
+172,Serpiente Pitón 172,Oceanía,Montaña,Reptil,29,2501
+173,Panda 173,África,Montaña,Reptil,17,489
+174,Jirafa 174,Oceanía,Humedal,Reptil,28,5012
+175,Cocodrilo 175,Europa,Sabana,Ave,36,2358
+176,Cocodrilo 176,Asia,Bosque,Ave,51,863
+177,Tigre 177,Asia,Humedal,Reptil,40,2020
+178,León 178,América,Sabana,Ave,50,552
+179,Elefante 179,Oceanía,Montaña,Reptil,23,854
+180,Panda 180,América,Bosque,Reptil,9,238
+181,León 181,África,Desierto,Ave,30,5221
+182,Jirafa 182,América,Sabana,Ave,29,5700
+183,Panda 183,África,Sabana,Ave,21,1713
+184,Tigre 184,América,Montaña,Mamífero,49,3945
+185,Águila Real 185,América,Bosque,Ave,79,432
+186,Panda 186,América,Montaña,Reptil,50,3605
+187,León 187,Europa,Sabana,Ave,55,6555
+188,Tigre 188,Asia,Bosque,Reptil,56,4882
+189,León 189,América,Desierto,Reptil,11,3504
+190,Cocodrilo 190,África,Desierto,Reptil,15,1708
+191,Tigre 191,Asia,Sabana,Mamífero,54,6732
+192,Gorila 192,Oceanía,Bosque,Mamífero,58,6949
+193,Gorila 193,África,Montaña,Ave,62,813
+194,León 194,Asia,Desierto,Reptil,13,6622
+195,Cocodrilo 195,África,Humedal,Mamífero,14,4784
+196,Cóndor 196,Europa,Humedal,Reptil,75,3482
+197,Serpiente Pitón 197,Oceanía,Montaña,Ave,6,6001
+198,Gorila 198,Europa,Humedal,Ave,12,1813
+199,Cocodrilo 199,África,Desierto,Reptil,63,3441
+200,Cóndor 200,Europa,Sabana,Mamífero,53,3544
+201,Jirafa 201,Asia,Sabana,Reptil,78,2786
+202,Cocodrilo 202,Oceanía,Montaña,Reptil,47,2274
+203,Serpiente Pitón 203,Oceanía,Montaña,Reptil,20,335
+204,Panda 204,América,Humedal,Mamífero,58,584
+205,Cocodrilo 205,Europa,Bosque,Reptil,31,2270
+206,Cóndor 206,Oceanía,Bosque,Ave,9,2645
+207,Águila Real 207,Asia,Humedal,Reptil,31,4710
+208,Águila Real 208,Europa,Sabana,Ave,34,6511
+209,Gorila 209,África,Montaña,Mamífero,36,617
+210,León 210,Europa,Sabana,Ave,57,1937
+211,Cóndor 211,Oceanía,Montaña,Reptil,5,5489
+212,Elefante 212,África,Humedal,Reptil,62,3226
+213,Serpiente Pitón 213,Europa,Bosque,Reptil,74,6400
+214,Jirafa 214,África,Humedal,Reptil,64,5720
+215,Jirafa 215,África,Desierto,Ave,78,1664
+216,Gorila 216,Europa,Sabana,Reptil,15,2760
+217,Serpiente Pitón 217,África,Bosque,Ave,79,537
+218,Gorila 218,África,Bosque,Mamífero,28,5620
+219,Serpiente Pitón 219,América,Montaña,Mamífero,63,4220
+220,Tigre 220,Asia,Bosque,Mamífero,19,4659
+221,Elefante 221,Oceanía,Montaña,Mamífero,28,3178
+222,Cocodrilo 222,América,Desierto,Mamífero,57,5353
+223,Águila Real 223,América,Humedal,Reptil,41,4025
+224,Tigre 224,Asia,Desierto,Reptil,60,4576
+225,Serpiente Pitón 225,Oceanía,Montaña,Mamífero,65,6735
+226,León 226,África,Montaña,Reptil,26,3525
+227,Serpiente Pitón 227,Europa,Montaña,Ave,62,5481
+228,Tigre 228,Europa,Bosque,Reptil,74,5013
+229,Elefante 229,América,Bosque,Ave,30,4587
+230,Elefante 230,África,Sabana,Reptil,15,25
+231,Gorila 231,Europa,Humedal,Mamífero,33,5723
+232,Elefante 232,África,Desierto,Reptil,53,4609
+233,Serpiente Pitón 233,Asia,Montaña,Ave,7,5039
+234,Cóndor 234,Asia,Sabana,Ave,56,6806
+235,Panda 235,África,Desierto,Reptil,70,2915
+236,León 236,Asia,Montaña,Mamífero,24,502
+237,Jirafa 237,Asia,Bosque,Ave,48,2434
+238,Cocodrilo 238,América,Desierto,Reptil,53,6172
+239,Cóndor 239,América,Sabana,Mamífero,41,13
+240,Serpiente Pitón 240,Oceanía,Bosque,Mamífero,43,3442
+241,Cóndor 241,América,Sabana,Reptil,30,4513
+242,Elefante 242,América,Sabana,Ave,53,943
+243,Elefante 243,África,Bosque,Reptil,8,4191
+244,Gorila 244,Europa,Humedal,Reptil,17,2492
+245,Panda 245,África,Desierto,Mamífero,47,2043
+246,Gorila 246,Oceanía,Bosque,Reptil,33,1641
+247,Cóndor 247,Asia,Desierto,Mamífero,5,5776
+248,Jirafa 248,Oceanía,Sabana,Reptil,23,3329
+249,Cocodrilo 249,Oceanía,Desierto,Ave,72,5755
+250,Tigre 250,América,Desierto,Mamífero,63,5503
+251,León 251,América,Humedal,Reptil,9,5944
+252,León 252,Asia,Humedal,Reptil,8,226
+253,Cóndor 253,Oceanía,Humedal,Mamífero,53,157
+254,Gorila 254,Asia,Montaña,Ave,75,6489
+255,Jirafa 255,América,Bosque,Mamífero,26,3894
+256,León 256,Oceanía,Bosque,Ave,17,4383
+257,Cóndor 257,África,Montaña,Mamífero,40,4163
+258,León 258,Europa,Sabana,Ave,49,2977
+259,Cocodrilo 259,Oceanía,Bosque,Mamífero,24,5502
+260,Cocodrilo 260,América,Bosque,Mamífero,30,1806
+261,Tigre 261,Oceanía,Sabana,Reptil,9,3999
+262,Cocodrilo 262,América,Desierto,Mamífero,25,6695
+263,Tigre 263,América,Humedal,Mamífero,80,2904
+264,Tigre 264,África,Desierto,Mamífero,41,2928
+265,Elefante 265,África,Montaña,Mamífero,19,478
+266,Águila Real 266,Asia,Humedal,Reptil,55,1830
+267,Elefante 267,Asia,Humedal,Reptil,67,6441
+268,Águila Real 268,América,Desierto,Ave,9,3156
+269,Cocodrilo 269,Asia,Desierto,Reptil,73,4280
+270,Cocodrilo 270,África,Desierto,Reptil,5,5700
+271,Cóndor 271,Asia,Sabana,Reptil,57,3524
+272,Panda 272,Asia,Bosque,Ave,32,4725
+273,León 273,África,Sabana,Reptil,36,6235
+274,Gorila 274,África,Humedal,Mamífero,10,6395
+275,Cocodrilo 275,Oceanía,Montaña,Ave,51,707
+276,Serpiente Pitón 276,Asia,Desierto,Ave,46,3663
+277,León 277,Europa,Sabana,Ave,66,2523
+278,Gorila 278,Oceanía,Desierto,Mamífero,30,3335
+279,Cóndor 279,Asia,Bosque,Mamífero,19,3692
+280,Cóndor 280,Europa,Montaña,Mamífero,51,5361
+281,Jirafa 281,Asia,Desierto,Reptil,44,2459
+282,Gorila 282,Asia,Sabana,Ave,24,102
+283,Tigre 283,Asia,Bosque,Mamífero,55,2345
+284,Elefante 284,América,Montaña,Reptil,68,2835
+285,Cóndor 285,América,Montaña,Mamífero,19,2339
+286,Tigre 286,Oceanía,Montaña,Ave,39,5624
+287,Cóndor 287,Oceanía,Bosque,Ave,23,5641
+288,Serpiente Pitón 288,América,Humedal,Ave,6,4583
+289,Tigre 289,Asia,Desierto,Reptil,63,2632
+290,León 290,Europa,Montaña,Mamífero,29,6915
+291,Jirafa 291,Oceanía,Sabana,Reptil,11,430
+292,Panda 292,África,Sabana,Reptil,30,2974
+293,Cóndor 293,Oceanía,Sabana,Reptil,8,3445
+294,León 294,Europa,Bosque,Mamífero,25,1228
+295,León 295,Europa,Bosque,Mamífero,70,1702
+296,Cocodrilo 296,Asia,Desierto,Reptil,36,4037
+297,Serpiente Pitón 297,Oceanía,Montaña,Mamífero,51,5111
+298,Tigre 298,Oceanía,Bosque,Ave,68,592
+299,Cocodrilo 299,Asia,Montaña,Ave,7,164
+300,Serpiente Pitón 300,Europa,Montaña,Ave,67,2023
+301,Serpiente Pitón 301,América,Desierto,Reptil,78,2539
+302,Elefante 302,Asia,Bosque,Ave,31,6122
+303,León 303,África,Humedal,Mamífero,66,4262
+304,Serpiente Pitón 304,Europa,Montaña,Ave,53,753
+305,Serpiente Pitón 305,África,Bosque,Ave,31,5921
+306,Elefante 306,Oceanía,Bosque,Mamífero,5,90
+307,Elefante 307,América,Montaña,Mamífero,38,3062
+308,Gorila 308,América,Bosque,Reptil,77,3006
+309,Serpiente Pitón 309,Asia,Sabana,Ave,48,3919
+310,Jirafa 310,América,Desierto,Reptil,8,4986
+311,Elefante 311,América,Sabana,Mamífero,25,3441
+312,Serpiente Pitón 312,África,Bosque,Reptil,31,3805
+313,Tigre 313,África,Desierto,Ave,78,6368
+314,Panda 314,Oceanía,Montaña,Ave,70,1693
+315,Jirafa 315,África,Bosque,Mamífero,73,1701
+316,Gorila 316,América,Humedal,Mamífero,62,1196
+317,Tigre 317,Europa,Bosque,Mamífero,39,4607
+318,Jirafa 318,África,Humedal,Ave,43,2918
+319,Tigre 319,Oceanía,Humedal,Reptil,29,3443
+320,León 320,América,Bosque,Reptil,8,6728
+321,Serpiente Pitón 321,Europa,Sabana,Mamífero,65,3064
+322,Cóndor 322,Europa,Humedal,Ave,47,5197
+323,Jirafa 323,África,Bosque,Reptil,42,3002
+324,Cóndor 324,África,Sabana,Mamífero,32,5196
+325,Cocodrilo 325,Asia,Desierto,Mamífero,38,5573
+326,Tigre 326,África,Montaña,Reptil,49,1327
+327,Elefante 327,América,Bosque,Mamífero,36,3712
+328,Serpiente Pitón 328,Europa,Humedal,Reptil,12,5975
+329,Panda 329,Asia,Bosque,Ave,78,2113
+330,Águila Real 330,Oceanía,Sabana,Mamífero,25,910
+331,Águila Real 331,Asia,Desierto,Ave,15,3927
+332,Cóndor 332,Europa,Montaña,Reptil,11,5676
+333,Jirafa 333,Oceanía,Humedal,Mamífero,46,3377
+334,Cóndor 334,Oceanía,Sabana,Ave,7,5643
+335,Serpiente Pitón 335,África,Bosque,Reptil,45,147
+336,Tigre 336,Oceanía,Sabana,Mamífero,10,2317
+337,León 337,América,Sabana,Reptil,62,623
+338,Jirafa 338,Europa,Sabana,Reptil,63,6116
+339,Panda 339,África,Desierto,Ave,19,1966
+340,Elefante 340,Oceanía,Desierto,Ave,38,2888
+341,Cóndor 341,Europa,Montaña,Mamífero,35,4886
+342,Águila Real 342,Europa,Desierto,Ave,73,4075
+343,Gorila 343,Oceanía,Montaña,Reptil,16,3506
+344,Gorila 344,América,Sabana,Ave,56,668
+345,Águila Real 345,Oceanía,Humedal,Ave,53,4488
+346,Tigre 346,América,Montaña,Mamífero,72,2384
+347,Cóndor 347,Asia,Humedal,Reptil,45,3932
+348,Cocodrilo 348,América,Humedal,Mamífero,48,6082
+349,Águila Real 349,Oceanía,Sabana,Reptil,27,76
+350,Gorila 350,África,Desierto,Mamífero,33,786
+351,Elefante 351,Europa,Bosque,Ave,65,4307
+352,Serpiente Pitón 352,América,Montaña,Mamífero,12,988
+353,Tigre 353,África,Desierto,Mamífero,62,4786
+354,Águila Real 354,América,Bosque,Reptil,18,474
+355,Cocodrilo 355,Oceanía,Montaña,Reptil,25,6401
+356,Cóndor 356,Asia,Humedal,Mamífero,43,6834
+357,Águila Real 357,África,Desierto,Mamífero,75,2442
+358,Panda 358,África,Bosque,Reptil,42,5191
+359,Tigre 359,África,Sabana,Mamífero,17,3971
+360,Tigre 360,Oceanía,Montaña,Reptil,35,854
+361,Cocodrilo 361,Europa,Desierto,Reptil,30,2641
+362,Serpiente Pitón 362,Oceanía,Humedal,Reptil,5,3227
+363,Cóndor 363,Asia,Humedal,Mamífero,5,5662
+364,Gorila 364,África,Sabana,Mamífero,20,6428
+365,León 365,América,Sabana,Reptil,64,6015
+366,Jirafa 366,Europa,Humedal,Ave,78,4719
+367,Águila Real 367,África,Humedal,Mamífero,8,4073
+368,Cocodrilo 368,América,Sabana,Reptil,43,1850
+369,Cocodrilo 369,Asia,Humedal,Reptil,73,1599
+370,Águila Real 370,Europa,Montaña,Mamífero,51,3781
+371,Águila Real 371,América,Desierto,Reptil,71,3277
+372,Tigre 372,Asia,Humedal,Ave,56,1971
+373,León 373,Oceanía,Desierto,Reptil,75,6858
+374,Gorila 374,América,Montaña,Mamífero,15,6622
+375,Jirafa 375,África,Sabana,Ave,49,3167
+376,Cocodrilo 376,América,Desierto,Ave,67,2356
+377,Panda 377,América,Bosque,Ave,7,1030
+378,Cocodrilo 378,África,Bosque,Mamífero,75,941
+379,León 379,América,Bosque,Ave,31,6403
+380,Tigre 380,Oceanía,Montaña,Ave,78,5858
+381,León 381,África,Humedal,Reptil,53,1288
+382,Jirafa 382,Oceanía,Bosque,Reptil,76,6613
+383,Cocodrilo 383,Oceanía,Sabana,Ave,49,2456
+384,Águila Real 384,Europa,Desierto,Mamífero,12,6577
+385,Águila Real 385,África,Desierto,Mamífero,25,6604
+386,Tigre 386,América,Bosque,Mamífero,26,4203
+387,Elefante 387,Europa,Sabana,Mamífero,49,4456
+388,Gorila 388,Asia,Sabana,Reptil,5,2849
+389,León 389,Europa,Montaña,Reptil,42,4461
+390,Panda 390,África,Desierto,Ave,76,5053
+391,Cóndor 391,Asia,Sabana,Reptil,19,6023
+392,Cóndor 392,Europa,Bosque,Reptil,80,4303
+393,León 393,América,Bosque,Ave,40,767
+394,Elefante 394,Asia,Humedal,Reptil,23,3382
+395,Gorila 395,Europa,Desierto,Mamífero,56,6727
+396,Jirafa 396,Oceanía,Montaña,Mamífero,71,3006
+397,Cocodrilo 397,Oceanía,Bosque,Mamífero,42,1765
+398,Cocodrilo 398,África,Humedal,Reptil,44,6217
+399,Gorila 399,América,Sabana,Mamífero,61,6661
+400,Cóndor 400,Europa,Desierto,Reptil,79,3101
+401,Cóndor 401,África,Bosque,Reptil,36,3109
+402,Serpiente Pitón 402,Asia,Desierto,Reptil,30,1024
+403,Cóndor 403,América,Sabana,Ave,24,296
+404,Tigre 404,África,Bosque,Mamífero,58,1324
+405,Águila Real 405,Asia,Desierto,Ave,73,702
+406,Cocodrilo 406,África,Bosque,Ave,73,1618
+407,Jirafa 407,Europa,Sabana,Reptil,68,4738
+408,Jirafa 408,Europa,Humedal,Ave,34,1035
+409,Cóndor 409,Europa,Desierto,Reptil,55,1050
+410,Cóndor 410,Europa,Montaña,Ave,40,1966
+411,Elefante 411,América,Desierto,Reptil,16,5197
+412,Águila Real 412,África,Humedal,Mamífero,43,5605
+413,Gorila 413,Oceanía,Desierto,Mamífero,69,652
+414,Jirafa 414,Oceanía,Humedal,Mamífero,74,5011
+415,Serpiente Pitón 415,Oceanía,Humedal,Ave,78,3826
+416,Gorila 416,Asia,Montaña,Reptil,20,3676
+417,Cóndor 417,Europa,Sabana,Reptil,55,705
+418,Tigre 418,Europa,Bosque,Reptil,73,3400
+419,León 419,Asia,Desierto,Ave,63,1004
+420,Elefante 420,Asia,Desierto,Mamífero,54,4168
+421,Jirafa 421,Asia,Sabana,Mamífero,55,2218
+422,Serpiente Pitón 422,Europa,Desierto,Mamífero,72,14
+423,León 423,Asia,Sabana,Reptil,12,1702
+424,Gorila 424,Asia,Humedal,Ave,29,4454
+425,Cocodrilo 425,Asia,Sabana,Ave,26,2647
+426,Águila Real 426,África,Montaña,Ave,41,169
+427,León 427,América,Desierto,Reptil,49,4805
+428,Tigre 428,América,Bosque,Mamífero,77,5615
+429,Gorila 429,Oceanía,Sabana,Ave,34,3064
+430,Cóndor 430,Europa,Humedal,Mamífero,55,5309
+431,Serpiente Pitón 431,Europa,Sabana,Ave,58,2746
+432,Gorila 432,América,Humedal,Reptil,63,2495
+433,Panda 433,América,Bosque,Reptil,35,1675
+434,Tigre 434,Oceanía,Desierto,Ave,41,4885
+435,León 435,África,Sabana,Mamífero,37,603
+436,Cocodrilo 436,Europa,Montaña,Mamífero,68,683
+437,León 437,Europa,Humedal,Ave,49,1179
+438,Jirafa 438,Oceanía,Sabana,Mamífero,72,3369
+439,Cóndor 439,América,Bosque,Ave,61,6246
+440,Elefante 440,Oceanía,Montaña,Ave,52,1848
+441,Tigre 441,América,Humedal,Ave,39,4171
+442,Cocodrilo 442,Oceanía,Sabana,Reptil,16,5645
+443,Tigre 443,Europa,Montaña,Ave,41,13
+444,Tigre 444,Europa,Humedal,Mamífero,6,4938
+445,Jirafa 445,Europa,Humedal,Ave,71,4700
+446,Tigre 446,Asia,Montaña,Ave,61,4114
+447,Jirafa 447,Asia,Desierto,Reptil,60,5626
+448,León 448,África,Montaña,Ave,43,3504
+449,Panda 449,Asia,Bosque,Reptil,57,5015
+450,Gorila 450,África,Bosque,Ave,10,4694
+451,Cóndor 451,África,Bosque,Mamífero,21,4151
+452,Cóndor 452,Asia,Sabana,Ave,63,6263
+453,Gorila 453,Asia,Bosque,Mamífero,70,5951
+454,Águila Real 454,América,Desierto,Reptil,56,4111
+455,Elefante 455,Europa,Desierto,Ave,29,4931
+456,Cóndor 456,Oceanía,Humedal,Reptil,8,5757
+457,Cóndor 457,Asia,Humedal,Ave,46,3389
+458,Tigre 458,Europa,Sabana,Ave,74,1594
+459,Jirafa 459,África,Desierto,Mamífero,8,929
+460,Jirafa 460,Europa,Desierto,Reptil,19,854
+461,Cocodrilo 461,África,Desierto,Reptil,54,6056
+462,Tigre 462,Asia,Humedal,Reptil,46,3586
+463,Águila Real 463,Oceanía,Montaña,Reptil,42,3387
+464,Gorila 464,Oceanía,Sabana,Reptil,67,1129
+465,Águila Real 465,América,Humedal,Reptil,66,2593
+466,Serpiente Pitón 466,Europa,Sabana,Reptil,14,4047
+467,Jirafa 467,África,Bosque,Reptil,16,1167
+468,León 468,Asia,Desierto,Mamífero,57,5913
+469,Cóndor 469,África,Montaña,Reptil,26,3536
+470,Águila Real 470,África,Humedal,Ave,60,2817
+471,Águila Real 471,Oceanía,Bosque,Ave,45,6863
+472,León 472,África,Montaña,Mamífero,38,2539
+473,Tigre 473,Europa,Sabana,Mamífero,30,1787
+474,Serpiente Pitón 474,Oceanía,Montaña,Ave,37,2394
+475,Gorila 475,Asia,Desierto,Ave,16,6654
+476,Cocodrilo 476,África,Desierto,Mamífero,12,5910
+477,Cóndor 477,Europa,Humedal,Reptil,79,577
+478,Panda 478,Europa,Sabana,Reptil,74,604
+479,Gorila 479,América,Montaña,Ave,70,2305
+480,Serpiente Pitón 480,Europa,Desierto,Mamífero,68,4192
+481,Águila Real 481,África,Desierto,Mamífero,35,4930
+482,Elefante 482,Europa,Desierto,Reptil,32,2340
+483,Cocodrilo 483,Oceanía,Desierto,Reptil,27,4220
+484,Cóndor 484,Asia,Desierto,Mamífero,10,4194
+485,Elefante 485,Asia,Humedal,Ave,5,5689
+486,Cocodrilo 486,África,Sabana,Reptil,27,1647
+487,Águila Real 487,Europa,Humedal,Mamífero,8,6705
+488,León 488,América,Desierto,Reptil,9,3509
+489,Tigre 489,África,Desierto,Mamífero,31,2325
+490,Elefante 490,Oceanía,Desierto,Reptil,77,2716
+491,Águila Real 491,Oceanía,Humedal,Reptil,33,2998
+492,Tigre 492,Europa,Sabana,Ave,27,6232
+493,Águila Real 493,África,Montaña,Ave,39,3574
+494,Cocodrilo 494,África,Desierto,Mamífero,54,1365
+495,Cóndor 495,Oceanía,Desierto,Mamífero,13,4783
+496,Tigre 496,África,Humedal,Mamífero,74,5447
+497,Serpiente Pitón 497,África,Montaña,Reptil,62,5694
+498,Tigre 498,Oceanía,Montaña,Reptil,43,3021
+499,Panda 499,Oceanía,Montaña,Ave,40,6297
+500,Panda 500,América,Humedal,Ave,51,2256

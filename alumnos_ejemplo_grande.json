@@ -1,0 +1,327 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana Pérez (1)",
+    "edad": 19,
+    "grado": "Física",
+    "curso": 1,
+    "nota_media": 6.23,
+    "asignaturas": [
+      "Cálculo I",
+      "Álgebra",
+      "Mecánica Clásica"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Luis Gómez (1)",
+    "edad": 19,
+    "grado": "Ingeniería Informática",
+    "curso": 1,
+    "nota_media": 6.46,
+    "asignaturas": [
+      "Programación I",
+      "Programación II",
+      "Estructuras de Datos"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Marta López (1)",
+    "edad": 19,
+    "grado": "Matemáticas",
+    "curso": 1,
+    "nota_media": 6.69,
+    "asignaturas": [
+      "Cálculo I",
+      "Álgebra",
+      "Topología"
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Iván Sánchez (1)",
+    "edad": 19,
+    "grado": "Física",
+    "curso": 1,
+    "nota_media": 6.92,
+    "asignaturas": [
+      "Cálculo I",
+      "Álgebra",
+      "Mecánica Clásica"
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Clara Ruiz (1)",
+    "edad": 19,
+    "grado": "Ingeniería Aeroespacial",
+    "curso": 1,
+    "nota_media": 7.15,
+    "asignaturas": [
+      "Aerodinámica",
+      "Mecánica de Fluidos",
+      "Cómputo Científico"
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Ana Pérez (2)",
+    "edad": 21,
+    "grado": "Física",
+    "curso": 2,
+    "nota_media": 7.38,
+    "asignaturas": [
+      "Cálculo I",
+      "Álgebra",
+      "Mecánica Clásica"
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Luis Gómez (2)",
+    "edad": 21,
+    "grado": "Ingeniería Informática",
+    "curso": 2,
+    "nota_media": 7.61,
+    "asignaturas": [
+      "Programación I",
+      "Programación II",
+      "Estructuras de Datos"
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Marta López (2)",
+    "edad": 21,
+    "grado": "Matemáticas",
+    "curso": 2,
+    "nota_media": 7.84,
+    "asignaturas": [
+      "Cálculo I",
+      "Álgebra",
+      "Topología"
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "Iván Sánchez (2)",
+    "edad": 21,
+    "grado": "Física",
+    "curso": 2,
+    "nota_media": 8.07,
+    "asignaturas": [
+      "Cálculo I",
+      "Álgebra",
+      "Mecánica Clásica"
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "Clara Ruiz (2)",
+    "edad": 21,
+    "grado": "Ingeniería Aeroespacial",
+    "curso": 2,
+    "nota_media": 8.3,
+    "asignaturas": [
+      "Aerodinámica",
+      "Mecánica de Fluidos",
+      "Cómputo Científico"
+    ]
+  },
+  {
+    "id": 11,
+    "nombre": "Ana Pérez (3)",
+    "edad": 21,
+    "grado": "Física",
+    "curso": 3,
+    "nota_media": 8.53,
+    "asignaturas": [
+      "Cálculo I",
+      "Álgebra",
+      "Mecánica Clásica"
+    ]
+  },
+  {
+    "id": 12,
+    "nombre": "Luis Gómez (3)",
+    "edad": 21,
+    "grado": "Ingeniería Informática",
+    "curso": 3,
+    "nota_media": 8.76,
+    "asignaturas": [
+      "Programación I",
+      "Programación II",
+      "Estructuras de Datos"
+    ]
+  },
+  {
+    "id": 13,
+    "nombre": "Marta López (3)",
+    "edad": 21,
+    "grado": "Matemáticas",
+    "curso": 3,
+    "nota_media": 8.99,
+    "asignaturas": [
+      "Cálculo I",
+      "Álgebra",
+      "Topología"
+    ]
+  },
+  {
+    "id": 14,
+    "nombre": "Iván Sánchez (3)",
+    "edad": 21,
+    "grado": "Física",
+    "curso": 3,
+    "nota_media": 9.22,
+    "asignaturas": [
+      "Cálculo I",
+      "Álgebra",
+      "Mecánica Clásica"
+    ]
+  },
+  {
+    "id": 15,
+    "nombre": "Clara Ruiz (3)",
+    "edad": 21,
+    "grado": "Ingeniería Aeroespacial",
+    "curso": 3,
+    "nota_media": 9.45,
+    "asignaturas": [
+      "Aerodinámica",
+      "Mecánica de Fluidos",
+      "Cómputo Científico"
+    ]
+  },
+  {
+    "id": 16,
+    "nombre": "Ana Pérez (4)",
+    "edad": 23,
+    "grado": "Física",
+    "curso": 4,
+    "nota_media": 9.68,
+    "asignaturas": [
+      "Cálculo I",
+      "Álgebra",
+      "Mecánica Clásica"
+    ]
+  },
+  {
+    "id": 17,
+    "nombre": "Luis Gómez (4)",
+    "edad": 23,
+    "grado": "Ingeniería Informática",
+    "curso": 4,
+    "nota_media": 9.91,
+    "asignaturas": [
+      "Programación I",
+      "Programación II",
+      "Estructuras de Datos"
+    ]
+  },
+  {
+    "id": 18,
+    "nombre": "Marta López (4)",
+    "edad": 23,
+    "grado": "Matemáticas",
+    "curso": 4,
+    "nota_media": 6.14,
+    "asignaturas": [
+      "Cálculo I",
+      "Álgebra",
+      "Topología"
+    ]
+  },
+  {
+    "id": 19,
+    "nombre": "Iván Sánchez (4)",
+    "edad": 23,
+    "grado": "Física",
+    "curso": 4,
+    "nota_media": 6.37,
+    "asignaturas": [
+      "Cálculo I",
+      "Álgebra",
+      "Mecánica Clásica"
+    ]
+  },
+  {
+    "id": 20,
+    "nombre": "Clara Ruiz (4)",
+    "edad": 23,
+    "grado": "Ingeniería Aeroespacial",
+    "curso": 4,
+    "nota_media": 6.6,
+    "asignaturas": [
+      "Aerodinámica",
+      "Mecánica de Fluidos",
+      "Cómputo Científico"
+    ]
+  },
+  {
+    "id": 21,
+    "nombre": "Ana Pérez (5)",
+    "edad": 19,
+    "grado": "Física",
+    "curso": 1,
+    "nota_media": 6.83,
+    "asignaturas": [
+      "Cálculo I",
+      "Álgebra",
+      "Mecánica Clásica"
+    ]
+  },
+  {
+    "id": 22,
+    "nombre": "Luis Gómez (5)",
+    "edad": 19,
+    "grado": "Ingeniería Informática",
+    "curso": 1,
+    "nota_media": 7.06,
+    "asignaturas": [
+      "Programación I",
+      "Programación II",
+      "Estructuras de Datos"
+    ]
+  },
+  {
+    "id": 23,
+    "nombre": "Marta López (5)",
+    "edad": 19,
+    "grado": "Matemáticas",
+    "curso": 1,
+    "nota_media": 7.29,
+    "asignaturas": [
+      "Cálculo I",
+      "Álgebra",
+      "Topología"
+    ]
+  },
+  {
+    "id": 24,
+    "nombre": "Iván Sánchez (5)",
+    "edad": 19,
+    "grado": "Física",
+    "curso": 1,
+    "nota_media": 7.52,
+    "asignaturas": [
+      "Cálculo I",
+      "Álgebra",
+      "Mecánica Clásica"
+    ]
+  },
+  {
+    "id": 25,
+    "nombre": "Clara Ruiz (5)",
+    "edad": 19,
+    "grado": "Ingeniería Aeroespacial",
+    "curso": 1,
+    "nota_media": 7.75,
+    "asignaturas": [
+      "Aerodinámica",
+      "Mecánica de Fluidos",
+      "Cómputo Científico"
+    ]
+  }
+]

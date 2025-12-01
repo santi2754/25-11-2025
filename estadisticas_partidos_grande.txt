@@ -1,0 +1,91 @@
+# Estadísticas de partidos de baloncesto (extendido)
+
+Partido 1: Equipo A 83 - 80 Equipo B
+MVP: Nikola Jokic (21 puntos, 4 asistencias, 6 rebotes)
+
+Partido 2: Equipo C 86 - 85 Equipo D
+MVP: Stephen Curry (22 puntos, 5 asistencias, 7 rebotes)
+
+Partido 3: Equipo E 89 - 90 Equipo F
+MVP: Giannis Antetokounmpo (23 puntos, 6 asistencias, 8 rebotes)
+
+Partido 4: Equipo A 92 - 95 Equipo B
+MVP: Kevin Durant (24 puntos, 7 asistencias, 9 rebotes)
+
+Partido 5: Equipo C 95 - 100 Equipo D
+MVP: Luka Doncic (25 puntos, 8 asistencias, 10 rebotes)
+
+Partido 6: Equipo E 98 - 105 Equipo F
+MVP: Nikola Jokic (26 puntos, 9 asistencias, 11 rebotes)
+
+Partido 7: Equipo A 101 - 110 Equipo B
+MVP: Stephen Curry (27 puntos, 10 asistencias, 12 rebotes)
+
+Partido 8: Equipo C 104 - 75 Equipo D
+MVP: Giannis Antetokounmpo (28 puntos, 11 asistencias, 5 rebotes)
+
+Partido 9: Equipo E 107 - 80 Equipo F
+MVP: Kevin Durant (29 puntos, 12 asistencias, 6 rebotes)
+
+Partido 10: Equipo A 110 - 85 Equipo B
+MVP: Luka Doncic (30 puntos, 3 asistencias, 7 rebotes)
+
+Partido 11: Equipo C 113 - 90 Equipo D
+MVP: Nikola Jokic (31 puntos, 4 asistencias, 8 rebotes)
+
+Partido 12: Equipo E 116 - 95 Equipo F
+MVP: Stephen Curry (32 puntos, 5 asistencias, 9 rebotes)
+
+Partido 13: Equipo A 119 - 100 Equipo B
+MVP: Giannis Antetokounmpo (33 puntos, 6 asistencias, 10 rebotes)
+
+Partido 14: Equipo C 82 - 105 Equipo D
+MVP: Kevin Durant (34 puntos, 7 asistencias, 11 rebotes)
+
+Partido 15: Equipo E 85 - 110 Equipo F
+MVP: Luka Doncic (35 puntos, 8 asistencias, 12 rebotes)
+
+Partido 16: Equipo A 88 - 75 Equipo B
+MVP: Nikola Jokic (36 puntos, 9 asistencias, 5 rebotes)
+
+Partido 17: Equipo C 91 - 80 Equipo D
+MVP: Stephen Curry (37 puntos, 10 asistencias, 6 rebotes)
+
+Partido 18: Equipo E 94 - 85 Equipo F
+MVP: Giannis Antetokounmpo (38 puntos, 11 asistencias, 7 rebotes)
+
+Partido 19: Equipo A 97 - 90 Equipo B
+MVP: Kevin Durant (39 puntos, 12 asistencias, 8 rebotes)
+
+Partido 20: Equipo C 100 - 95 Equipo D
+MVP: Luka Doncic (40 puntos, 3 asistencias, 9 rebotes)
+
+Partido 21: Equipo E 103 - 100 Equipo F
+MVP: Nikola Jokic (41 puntos, 4 asistencias, 10 rebotes)
+
+Partido 22: Equipo A 106 - 105 Equipo B
+MVP: Stephen Curry (42 puntos, 5 asistencias, 11 rebotes)
+
+Partido 23: Equipo C 109 - 110 Equipo D
+MVP: Giannis Antetokounmpo (43 puntos, 6 asistencias, 12 rebotes)
+
+Partido 24: Equipo E 112 - 75 Equipo F
+MVP: Kevin Durant (44 puntos, 7 asistencias, 5 rebotes)
+
+Partido 25: Equipo A 115 - 80 Equipo B
+MVP: Luka Doncic (20 puntos, 8 asistencias, 6 rebotes)
+
+Partido 26: Equipo C 118 - 85 Equipo D
+MVP: Nikola Jokic (21 puntos, 9 asistencias, 7 rebotes)
+
+Partido 27: Equipo E 81 - 90 Equipo F
+MVP: Stephen Curry (22 puntos, 10 asistencias, 8 rebotes)
+
+Partido 28: Equipo A 84 - 95 Equipo B
+MVP: Giannis Antetokounmpo (23 puntos, 11 asistencias, 9 rebotes)
+
+Partido 29: Equipo C 87 - 100 Equipo D
+MVP: Kevin Durant (24 puntos, 12 asistencias, 10 rebotes)
+
+Partido 30: Equipo E 90 - 105 Equipo F
+MVP: Luka Doncic (25 puntos, 3 asistencias, 11 rebotes)

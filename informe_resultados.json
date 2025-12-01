@@ -1,0 +1,40 @@
+{
+    "txt": {
+        "archivo": "estadisticas_partidos_grande.txt",
+        "num_lineas": 91,
+        "num_palabras": 547
+    },
+    "csv": {
+        "archivo": "animales_mundo_grande.csv",
+        "num_filas": 500,
+        "num_columnas": 7,
+        "columnas": [
+            "id",
+            "especie",
+            "continente",
+            "habitat",
+            "tipo",
+            "esperanza_vida",
+            "peso_kg"
+        ]
+    },
+    "json": {
+        "archivo": "alumnos_ejemplo_grande.json",
+        "num_elementos": 25,
+        "claves_primer_elemento": [
+            "id",
+            "nombre",
+            "edad",
+            "grado",
+            "curso",
+            "nota_media",
+            "asignaturas"
+        ]
+    },
+    "xml": {
+        "archivo": "calendario_festivos_grande.xml",
+        "procesado_correctamente": true,
+        "etiqueta_raiz": "calendario_festivos",
+        "num_paises": 3
+    }
+}
